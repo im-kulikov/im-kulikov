@@ -3,7 +3,9 @@
 ### Hi there 👋
 
 - 📦 Author of [Helium project](https://github.com/im-kulikov/helium) and [Helium modules](https://github.com/go-helium)
-- 👨‍💻 Working at [RnD Neo SPCC](https://nspcc.ru)
+- 👨‍💻 Worked at [FiberSide](https://fiberside.ru) : outsourcing, consulting, PHP / RoR / Golang, team/tech leading
+- 👨‍💻 Worked at [CryptoPay LTD](https://cryptopay.me) : senior golang engeneer, tech leading, core team
+- 👨‍💻 Worked at [RnD Neo SPCC](https://nspcc.ru) : senior golang engeneer, RnD, opensource, core and services team
 - 🕸 See more about me and my work at my own [site](https://kulikov.im)
 
 
