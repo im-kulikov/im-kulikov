@@ -6,6 +6,7 @@
 - 👨‍💻 Worked at [FiberSide](https://fiberside.ru) : outsourcing, consulting, PHP / RoR / Golang, team/tech leading
 - 👨‍💻 Worked at [CryptoPay LTD](https://cryptopay.me) : senior golang engeneer, tech leading, core team
 - 👨‍💻 Worked at [RnD Neo SPCC](https://nspcc.ru) : senior golang engeneer, RnD, opensource, core and services team
+- 👨‍💻 Now work at [Coins](https://coins.ph) : senior golang engeneer, opensource, core and services team
 - 🕸 See more about me and my work at my own [site](https://kulikov.im)
 
 
