@@ -1,4 +1,4 @@
- <img align="right" height="250" alt="GIF" src="https://raw.githubusercontent.com/im-kulikov/im-kulikov/master/logo.gif" />
+ <img align="right" height="250" width="333" alt="GIF" src="https://raw.githubusercontent.com/im-kulikov/im-kulikov/master/logo.gif" />
 
 ### Hi there 👋
 
