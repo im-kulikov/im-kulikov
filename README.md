@@ -7,7 +7,8 @@
 - 👨‍💻 Worked at [CryptoPay LTD](https://cryptopay.me) : senior golang engineer, tech leading, core team
 - 👨‍💻 Worked at [RnD Neo SPCC](https://nspcc.ru) : senior golang engineer, RnD, opensource, core and services team
 - 👨‍💻 Worked at [Coins](https://coins.ph) : senior golang engineer, opensource, core and services team
-- 👨‍💻 Worked at [SBMT](https://sbermarket.ru) : Team/Tech Lead, golang engineer 
+- 👨‍💻 Worked at [SBMT](https://sbermarket.ru) : Team/Tech Lead, golang engineer
+- 👨‍💻 Worked at [WB](https://wb.ru) : Team/Tech Lead, golang engineer 
 - 🕸 See more about me and my work at my own [site](https://kulikov.im)
 
 
