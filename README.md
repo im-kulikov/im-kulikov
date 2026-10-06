@@ -2,13 +2,15 @@
 
 ### Hi there 👋
 
-- 📦 Author of [Helium project](https://github.com/im-kulikov/helium) and [Helium modules](https://github.com/go-helium)
+- 📦 Author of
+  - [Helium](https://github.com/im-kulikov/helium) and [modules](https://github.com/go-helium)
+  - [GoBones](https://github.com/im-kulikov/go-bones) and [Gonfig](https://github.com/im-kulikov/gonfig)
 - 👨‍💻 Worked at [FiberSide](https://fiberside.ru) : outsourcing, consulting, PHP / RoR / Golang, team/tech leading
 - 👨‍💻 Worked at [CryptoPay LTD](https://cryptopay.me) : senior golang engineer, tech leading, core team
 - 👨‍💻 Worked at [RnD Neo SPCC](https://nspcc.ru) : senior golang engineer, RnD, opensource, core and services team
 - 👨‍💻 Worked at [Coins](https://coins.ph) : senior golang engineer, opensource, core and services team
 - 👨‍💻 Worked at [SBMT](https://sbermarket.ru) : Team/Tech Lead, golang engineer
-- 👨‍💻 Worked at [WB](https://wb.ru) : Team/Tech Lead, golang engineer 
+- 👨‍💻 Worked at [WB](https://wb.ru) : ~Team/Tech Lead, golang engineer~ Solution Architech 
 - 🕸 See more about me and my work at my own [site](https://kulikov.im)
 
 
