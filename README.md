@@ -52,6 +52,6 @@ Also: pull requests to Golang, Labstack Echo, TiDB and RouterOS; fixes for ellip
 ### How I can help
 
 Architecture audits · system design · building and growing teams · engineering processes and CI/CD · MVP launch · microservices and internal platforms.
-Details and case studies on **[kulikov.im](https://kulikov.im/en/services.html)**, or just [message me on Telegram](https://t.me/li_si_qing).
+Open to tech lead / architect roles and consulting engagements. Details and case studies on **[kulikov.im](https://kulikov.im/en/services.html)**, or just [message me on Telegram](https://t.me/li_si_qing).
 
 <sub>Tech: Go · gRPC · PostgreSQL · ClickHouse · Kafka · Redis · Kubernetes · Docker · OpenTelemetry · Prometheus · Grafana · Keycloak</sub>
